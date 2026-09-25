@@ -1,0 +1,16 @@
+text,sentiment,clean_text
+I love this product,Positive,i love this product
+The service was excellent,Positive,the service was excellent
+Amazing experience,Positive,amazing experience
+I am very happy with the purchase,Positive,i am very happy with the purchase
+This is a wonderful product,Positive,this is a wonderful product
+I hate this product,Negative,i hate this product
+The service was terrible,Negative,the service was terrible
+Very bad experience,Negative,very bad experience
+I am disappointed with the purchase,Negative,i am disappointed with the purchase
+This product is awful,Negative,this product is awful
+The product is okay,Neutral,the product is okay
+The service was average,Neutral,the service was average
+It is neither good nor bad,Neutral,it is neither good nor bad
+The experience was normal,Neutral,the experience was normal
+I have mixed feelings about this,Neutral,i have mixed feelings about this
